@@ -1,6 +1,6 @@
 # LinearAlgebra
 
-The essence og the Linear Algebra
+The essence of Linear Algebra
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 https://immersivemath.com/ila/index.html
